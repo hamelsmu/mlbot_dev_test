@@ -1,4 +1,5 @@
 label-alias:
-  test123: second-line
   bug: #bug
+  feature_request: feature request
+  question: question
   
