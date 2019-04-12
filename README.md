@@ -1,6 +1,3 @@
-- labels:
-  test123: second-line
-  bug: #bug
-- foo:
-  bar: hamel
+test123: second-line
+bug: #bug
   
