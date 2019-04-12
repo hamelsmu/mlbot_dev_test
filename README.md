@@ -1,2 +1,3 @@
-- test123: second-line
-- bug: #bug
+labels:
+  - test123: second-line
+  - bug: #bug
